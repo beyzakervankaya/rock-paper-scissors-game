@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\2.rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\2.rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\2.rockpaperscissors.AssemblyInfo.cs
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\2.rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\bin\Debug\net6.0\2.rockpaperscissors.exe
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\bin\Debug\net6.0\2.rockpaperscissors.deps.json
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\bin\Debug\net6.0\2.rockpaperscissors.runtimeconfig.json
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\bin\Debug\net6.0\2.rockpaperscissors.dll
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\bin\Debug\net6.0\2.rockpaperscissors.pdb
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\2.rockpaperscissors.dll
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\refint\2.rockpaperscissors.dll
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\2.rockpaperscissors.pdb
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\2.rockpaperscissors.genruntimeconfig.cache
+C:\Users\beyza\Desktop\nolur\2.rockpaperscissors\2.rockpaperscissors\obj\Debug\net6.0\ref\2.rockpaperscissors.dll
